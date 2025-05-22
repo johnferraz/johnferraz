@@ -33,7 +33,7 @@
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnferraz/)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://johnferraz.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://johnferraz.rf.gd)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
