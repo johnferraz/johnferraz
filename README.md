@@ -31,5 +31,5 @@
 
 ### Contact
 
-- Discord: youruser  
-- Email: your@email.com  
+- Discord: johnferrazdev  
+- Email: johnferrazdev@email.com  
